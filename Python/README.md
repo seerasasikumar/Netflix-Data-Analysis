@@ -69,4 +69,10 @@ The following charts were created using Matplotlib:
 
 ---
 
-This Python analysis complements the Excel, SQL, and Power BI analyses to provide comprehensive insights into the Netflix dataset.
+## 📂 File
+
+- `Netflix_Analysis.py` – Python script for data cleaning, analysis, and visualization.
+
+---
+
+This Python analysis complements the Excel, SQL, and Power BI analyses to provide comprehensive insights into the Netflix dataset. 
