@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the Netflix Movies and TV Shows dataset to uncover trends in content distribution, ratings, genres, countries, directors, and release years. Using Excel, SQL, Python, and Power BI, the project transforms raw data into meaningful business insights and interactive dashboards.
+This project analyzes the Netflix Movies and TV Shows dataset to uncover trends in content distribution, ratings, genres, countries, directors, and release years. Using Excel, Python, and Power BI, the project transforms raw data into meaningful business insights and interactive dashboards.
 
 ---
 
@@ -115,7 +115,6 @@ Interactive Dashboard featuring:
 - Build a Netflix Recommendation System using Machine Learning.
 - Perform Sentiment Analysis on movie descriptions.
 - Create an Executive Dashboard with advanced Power BI visuals.
-- Develop a real-time Netflix analytics dashboard using streaming data.
 
 ---
 
@@ -136,8 +135,8 @@ Aspiring Data Analyst
 
 ### Connect with Me
 
-- **GitHub:** https://github.com/seerasasikumar
-- **LinkedIn:** https://www.linkedin.com/in/seerasasikumar
+- GitHub: https://github.com/seerasasikumar
+- LinkedIn: https://www.linkedin.com/in/seerasasikumar
 
 ---
 
