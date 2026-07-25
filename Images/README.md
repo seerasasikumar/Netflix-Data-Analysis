@@ -2,53 +2,45 @@
 
 ## 📌 Overview
 
-This folder contains all images and visualizations created during the Netflix Data Analysis project. These images were generated using Microsoft Excel and Python and are used to support the project documentation and analysis.
+This folder contains all dashboard screenshots and visualization images created during the Netflix Data Analysis project.
+
+These images are used in the project documentation and provide a visual representation of the analysis performed using Excel, Python, and Power BI.
 
 ---
 
-## 📂 Files
+## 📂 Image Files
 
-### 📊 Excel Dashboard
+### 📊 Dashboard Images
 
 - Excel_Dashboard.png
-
-Interactive dashboard created using Microsoft Excel with Pivot Tables, Pivot Charts, and KPI metrics.
+- Netflix_Dashboard.png
 
 ### 🐍 Python Visualizations
 
 - Py_Movies_vs_TVshows.png
-- Py_top_10_Ratings.png
-- Py_top_10_Countries.png
-- Py_top_10_Genre.png
-- Py_top_10_Directors.png
 - Py_Release_year.png
-
-These visualizations were created using **Pandas** and **Matplotlib** to analyze Netflix content from different perspectives.
-
----
-
-## 📈 Visual Insights
-
-The images highlight:
-
-- Distribution of Movies vs TV Shows
-- Top 10 Content Ratings
-- Top 10 Countries by Netflix Content
-- Top 10 Genre Categories
-- Top 10 Directors
-- Content Release Trend Over the Years
+- Py_top_10_Countries.png
+- Py_top_10_Directors.png
+- Py_top_10_Genre.png
+- Py_top_10_Ratings.png
 
 ---
 
 ## 🎯 Purpose
 
-The images in this folder are used to:
+These images are included to:
 
-- Support project documentation
-- Present data visually
-- Showcase analysis results
-- Enhance the GitHub portfolio with graphical insights
+- Showcase dashboard designs.
+- Present Python-generated visualizations.
+- Improve project documentation.
+- Provide quick visual insights into the Netflix dataset.
 
 ---
 
-These visualizations demonstrate data analysis and visualization skills using Microsoft Excel and Python.
+## 📌 Usage
+
+These images are referenced in the project's README files and demonstrate the results of the Excel, Python, and Power BI analyses.
+
+---
+
+This folder serves as the visual documentation for the Netflix Data Analysis project.
