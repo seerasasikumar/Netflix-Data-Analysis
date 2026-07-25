@@ -59,6 +59,44 @@ The following charts were created using Matplotlib:
 
 ---
 
+## 🖼️ Python Visualizations
+
+### Movies vs TV Shows
+
+![Movies vs TV Shows](../Images/Py_Movies_vs_TVshows.png)
+
+---
+
+### Top 10 Netflix Content Ratings
+
+![Top 10 Ratings](../Images/Py_top_10_Ratings.png)
+
+---
+
+### Top 10 Countries
+
+![Top 10 Countries](../Images/Py_top_10_Countries.png)
+
+---
+
+### Top 10 Genres
+
+![Top 10 Genres](../Images/Py_top_10_Genre.png)
+
+---
+
+### Netflix Content Release Over the Years
+
+![Release Year Trend](../Images/Py_Release_year.png)
+
+---
+
+### Top 10 Directors
+
+![Top 10 Directors](../Images/Py_top_10_Directors.png)
+
+---
+
 ## 💡 Key Insights
 
 - Movies are more numerous than TV Shows on Netflix.
