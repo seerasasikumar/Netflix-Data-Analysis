@@ -43,20 +43,22 @@ This folder contains the interactive Power BI dashboard developed for the Netfli
 
 - Movies dominate the Netflix catalog.
 - The United States has the largest content library.
-- Drama and International Movies are the most common genres.
-- Netflix content has increased significantly over recent years.
-- TV Shows represent a smaller but growing share of the platform.
+- Drama and International Movies are among the most common genres.
+- Netflix content has grown significantly over the years.
+- TV Shows represent a smaller but steadily growing share of the platform.
 
 ---
 
 ## 📂 File
 
-- Netflix.pbix – Interactive Power BI Dashboard
+- **Netflix.pbix** – Interactive Power BI Dashboard
 
 ---
 
 ## 📷 Dashboard Preview
 
-### Netflix Dashboard
+![Netflix Dashboard](../Dashboard/Netflix_Dashboard.png)
 
-![Dashboard](Dashboard/Netflix_Dashboard.png)
+---
+
+This Power BI dashboard provides an interactive view of Netflix content and complements the Excel, SQL, and Python analyses by enabling users to explore trends, content distribution, and key business insights visually.
