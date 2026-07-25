@@ -25,6 +25,7 @@ This folder contains the interactive Power BI dashboard developed for the Netfli
 - Total Movies
 - Total TV Shows
 - Total Countries
+- Total Directors
 
 ---
 
