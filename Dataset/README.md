@@ -2,22 +2,28 @@
 
 ## 📌 Overview
 
-This folder contains the dataset used for the Netflix Data Analysis project.
+This folder contains the datasets used for the Netflix Data Analysis project. The datasets are used for data cleaning, exploratory data analysis (EDA), visualization, and dashboard creation.
 
 ---
 
-## 📄 Dataset Information
+## 📄 Files
 
-**Dataset Name:** netflix_titles.csv
+### 1. netflix_titles.csv
 
-The dataset contains information about Netflix Movies and TV Shows, including titles, genres, countries, release years, ratings, durations, and cast details.
+The original Netflix dataset containing information about Movies and TV Shows.
+
+### 2. Netflix_cleaned.csv
+
+The cleaned version of the dataset after handling missing values and preparing the data for analysis.
 
 ---
 
-## 📊 Features
+## 📊 Dataset Features
+
+The dataset includes the following information:
 
 - Show ID
-- Type (Movie / TV Show)
+- Content Type (Movie / TV Show)
 - Title
 - Director
 - Cast
@@ -26,20 +32,31 @@ The dataset contains information about Netflix Movies and TV Shows, including ti
 - Release Year
 - Rating
 - Duration
-- Listed In (Genre)
+- Genre
 - Description
+
+---
+
+## 🧹 Data Cleaning
+
+The cleaned dataset includes:
+
+- Missing values handled
+- Duplicate records checked
+- Consistent data formatting
+- Dataset prepared for analysis and visualization
 
 ---
 
 ## 🎯 Purpose
 
-The dataset is used to perform:
+The datasets are used for:
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- SQL Analysis
 - Excel Analysis
-- Power BI Dashboard Creation
+- Python Analysis
+- Power BI Dashboard Development
 - Business Insights Generation
 
 ---
@@ -50,4 +67,11 @@ Netflix Titles Dataset (Public Dataset)
 
 ---
 
-This dataset is used for educational and portfolio purposes only.
+## 📌 Note
+
+- **netflix_titles.csv** is the original dataset.
+- **Netflix_cleaned.csv** is the processed dataset used for analysis and dashboard creation.
+
+---
+
+This dataset is provided for educational and portfolio purposes only.
