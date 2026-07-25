@@ -30,7 +30,7 @@ This folder contains the Microsoft Excel analysis of the Netflix dataset. The an
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard/Excel _Dashboard.png)
+![Dashboard](Dashboard/Excel_Dashboard.png)
 
 ---
 
