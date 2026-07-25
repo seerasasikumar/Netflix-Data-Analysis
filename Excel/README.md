@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-This folder contains the Microsoft Excel analysis of the Netflix dataset.
-
-The analysis focuses on understanding the distribution of Movies and TV Shows, release trends, content ratings, countries, and genres using Excel features.
+This folder contains the Microsoft Excel analysis of the Netflix dataset. The analysis focuses on understanding Netflix content using Pivot Tables, Pivot Charts, KPI calculations, and an interactive dashboard.
 
 ---
 
@@ -30,6 +28,12 @@ The analysis focuses on understanding the distribution of Movies and TV Shows, r
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](../Dashboard/Excel_Dashboard.png)
+
+---
+
 ## 📊 Visualizations
 
 - Movies vs TV Shows
@@ -49,4 +53,10 @@ The analysis focuses on understanding the distribution of Movies and TV Shows, r
 
 ---
 
-This Excel analysis serves as the foundation for SQL, Python, and Power BI analysis.
+## 📂 File
+
+- `Netflix.xlsx` – Excel workbook containing data analysis, Pivot Tables, Pivot Charts, and the interactive dashboard.
+
+---
+
+This Excel analysis serves as the foundation for Python analysis and Power BI dashboard development.
