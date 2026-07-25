@@ -25,7 +25,6 @@ This folder contains the interactive Power BI dashboard developed for the Netfli
 - Total Movies
 - Total TV Shows
 - Total Countries
-- Total Directors
 
 ---
 
@@ -50,14 +49,14 @@ This folder contains the interactive Power BI dashboard developed for the Netfli
 
 ---
 
+## 📂 File
+
+- Netflix.pbix – Interactive Power BI Dashboard
+
+---
+
 ## 📷 Dashboard Preview
 
 ### Netflix Dashboard
 
 ![Dashboard](Dashboard/Netflix_Dashboard.png)
-
----
-
-## 📂 File
-
-- Netflix.pbix – Interactive Power BI Dashboard
